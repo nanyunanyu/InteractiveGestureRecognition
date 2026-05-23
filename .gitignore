@@ -1,0 +1,7 @@
+.claude/
+__pycache__/
+*.py[cod]
+build/
+dist/
+src - 副本/
+开发中演示图片/
